@@ -8,7 +8,7 @@ def handler(context, inputs):
     :return The desired machine name.
     """
     old_name = inputs["resourceNames"][0]
-    new_name = inputs["customProperties"]["Name"]
+    new_name = inputs["customProperties"]["Name1234"]
 
     outputs = {}
     outputs["resourceNames"] = inputs["resourceNames"]
