@@ -7,10 +7,5 @@ entrypoint: "handler"
 timeoutSeconds: 180
 deploymentTimeoutSeconds: 600
 actionType: "SCRIPT"
-configuration:
-  const-providers:
-  - "aws"
-  const_azure-system_managed_identity: false
-actionTemplateName: "Rename VM"
-actionTemplateNamespace: "com.vmware.automation.abx"
+provider: "aws"
 memoryInMB: 150
