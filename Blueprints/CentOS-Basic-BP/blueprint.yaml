@@ -1,4 +1,4 @@
-formatVersion: 1
+formatVersion: 2
 name: CentOS-Basic-BP
 version: 1
 inputs: {}
@@ -20,7 +20,7 @@ resources:
       customizationSpec: Linux
       networks:
         - network: '${resource.Cloud_vSphere_Network_1.id}'
-          assignment: static
+          assignment: dynamic
       constraints:
         - tag: 'location:EMEA'
         - tag: 'clusterType:Normal'
