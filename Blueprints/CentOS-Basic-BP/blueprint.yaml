@@ -1,6 +1,6 @@
-formatVersion: 2
+formatVersion: 1
 name: CentOS-Basic-BP
-version: 1
+version: 2
 inputs: {}
 resources:
   Cloud_vSphere_Network_1:
