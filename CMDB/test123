@@ -1,0 +1,5 @@
+{
+    "Hostname": "test123",
+    "deploymentId": "abcde",
+    "deploymentImage": "CentOS"
+}
