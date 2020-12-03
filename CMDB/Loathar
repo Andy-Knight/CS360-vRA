@@ -1,7 +1,0 @@
-{
-    "Hostname": "Loathar",
-    "IP": "192.168.110.161",
-    "buildState": "Provisioned",
-    "deploymentId": "e29da2de-0378-4a98-8c1d-8f9278fc8ea8",
-    "deploymentImage": "CentOS"
-}
