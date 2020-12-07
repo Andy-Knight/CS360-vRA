@@ -1,6 +1,7 @@
 {
     "Hostname": "Aigaup",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.161",
+    "buildState": "Provisioned",
     "deploymentId": "b7f7d4c2-48a9-4556-9195-6bc3beeda6ec",
     "deploymentImage": "CentOS"
 }
