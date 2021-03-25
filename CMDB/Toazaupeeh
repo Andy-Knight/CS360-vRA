@@ -1,6 +1,7 @@
 {
     "Hostname": "Toazaupeeh",
-    "buildState": "Provisioning",
+    "IP": "192.168.72.6",
+    "buildState": "Provisioned",
     "deploymentId": "71cd5df9-6b60-4639-9479-3fb1e5511f48",
     "deploymentImage": "CentOS"
 }
