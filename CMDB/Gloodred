@@ -1,6 +1,7 @@
 {
     "Hostname": "Gloodred",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.161",
+    "buildState": "Provisioned",
     "deploymentId": "2db58603-ce80-4b1c-8727-10489303239e",
     "deploymentImage": "CentOS"
 }
