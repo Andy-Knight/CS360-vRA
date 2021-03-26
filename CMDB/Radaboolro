@@ -1,6 +1,7 @@
 {
     "Hostname": "Radaboolro",
-    "buildState": "Provisioning",
+    "IP": "172.16.0.26",
+    "buildState": "Provisioned",
     "deploymentId": "1283322c-6723-4d80-a893-31929a49f630",
     "deploymentImage": "CentOS"
 }
