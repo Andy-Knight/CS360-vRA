@@ -1,6 +1,7 @@
 {
     "Hostname": "Estaicheg",
-    "buildState": "Provisioning",
+    "IP": "172.16.0.10",
+    "buildState": "Provisioned",
     "deploymentId": "5862810b-3ff8-4a14-bf69-78bb6fe7c2d4",
     "deploymentImage": "CentOS"
 }
