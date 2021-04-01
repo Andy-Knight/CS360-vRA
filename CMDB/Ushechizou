@@ -1,0 +1,6 @@
+{
+    "Hostname": "Ushechizou",
+    "buildState": "Provisioning",
+    "deploymentId": "1a9a0dae-9600-4982-931a-636feb1b4ede",
+    "deploymentImage": "CentOS-CloudInit"
+}
