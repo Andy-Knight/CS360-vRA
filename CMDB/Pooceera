@@ -1,0 +1,6 @@
+{
+    "Hostname": "Pooceera",
+    "buildState": "Provisioning",
+    "deploymentId": "e7d62bbc-3414-40cb-accd-fdaf1ec475b2",
+    "deploymentImage": "CentOS-CloudInit"
+}
