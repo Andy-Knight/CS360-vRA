@@ -1,0 +1,6 @@
+{
+    "Hostname": "Grite",
+    "buildState": "Provisioning",
+    "deploymentId": "43a19b61-d116-4585-9cc8-6208b332f177",
+    "deploymentImage": "CentOS-CloudInit"
+}
