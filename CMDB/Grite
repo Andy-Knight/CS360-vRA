@@ -1,6 +1,7 @@
 {
     "Hostname": "Grite",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.227",
+    "buildState": "Provisioned",
     "deploymentId": "43a19b61-d116-4585-9cc8-6208b332f177",
     "deploymentImage": "CentOS-CloudInit"
 }
