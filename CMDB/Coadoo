@@ -1,6 +1,7 @@
 {
     "Hostname": "Coadoo",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.223",
+    "buildState": "Provisioned",
     "deploymentId": "f5432e1b-5f36-4c62-96f8-6efc95c54033",
     "deploymentImage": "CentOS-CloudInit"
 }
