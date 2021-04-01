@@ -1,6 +1,7 @@
 {
     "Hostname": "Namtooks",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.226",
+    "buildState": "Provisioned",
     "deploymentId": "4f469a09-11f2-4a25-a4a2-9bd7308e40aa",
     "deploymentImage": "CentOS-CloudInit"
 }
