@@ -1,0 +1,6 @@
+{
+    "Hostname": "Ezaucm",
+    "buildState": "Provisioning",
+    "deploymentId": "f29ac5fa-ad5d-4c18-aae0-377f5a21434c",
+    "deploymentImage": "CentOS-CloudInit"
+}
