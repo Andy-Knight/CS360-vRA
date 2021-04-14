@@ -1,0 +1,6 @@
+{
+    "Hostname": "Phucho",
+    "buildState": "Provisioning",
+    "deploymentId": "09037ff8-28c9-45ee-8c0e-d838f189d846",
+    "deploymentImage": "CentOS-CloudInit"
+}
