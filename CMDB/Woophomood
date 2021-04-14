@@ -1,0 +1,6 @@
+{
+    "Hostname": "Woophomood",
+    "buildState": "Provisioning",
+    "deploymentId": "34f61bfc-ffa5-4136-82fa-57368486dfd3",
+    "deploymentImage": "CentOS-CloudInit"
+}
