@@ -1,6 +1,7 @@
 {
     "Hostname": "Moozamiy",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.230",
+    "buildState": "Provisioned",
     "deploymentId": "9988227a-7c53-42eb-93b0-69b389f154ee",
     "deploymentImage": "CentOS-CloudInit"
 }
