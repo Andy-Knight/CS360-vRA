@@ -1,0 +1,6 @@
+{
+    "Hostname": "Pheharoa",
+    "buildState": "Provisioning",
+    "deploymentId": "7030da1b-a6f4-4c64-a3de-6c2198ef634c",
+    "deploymentImage": "CentOS-CloudInit"
+}
