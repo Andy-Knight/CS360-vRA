@@ -1,0 +1,6 @@
+{
+    "Hostname": "Wakse",
+    "buildState": "Provisioning",
+    "deploymentId": "a877431d-6044-4c00-80f5-e3d8f2188faf",
+    "deploymentImage": "CentOS-CloudInit"
+}
