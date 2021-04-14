@@ -1,6 +1,7 @@
 {
     "Hostname": "Nakeeksir",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.232",
+    "buildState": "Provisioned",
     "deploymentId": "09037ff8-28c9-45ee-8c0e-d838f189d846",
     "deploymentImage": "CentOS-CloudInit"
 }
