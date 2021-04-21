@@ -1,7 +1,0 @@
-{
-    "Hostname": "Eepifud",
-    "IP": "192.168.110.228",
-    "buildState": "Provisioned",
-    "deploymentId": "1888c250-0843-489b-98f0-00f461d7b73e",
-    "deploymentImage": "CentOS-CloudInit"
-}
