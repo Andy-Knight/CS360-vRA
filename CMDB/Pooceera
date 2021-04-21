@@ -1,7 +1,0 @@
-{
-    "Hostname": "Pooceera",
-    "IP": "192.168.110.221",
-    "buildState": "Provisioned",
-    "deploymentId": "e7d62bbc-3414-40cb-accd-fdaf1ec475b2",
-    "deploymentImage": "CentOS-CloudInit"
-}
