@@ -1,6 +1,7 @@
 {
     "Hostname": "Wheessoo",
-    "buildState": "Provisioning",
+    "IP": "192.168.110.161",
+    "buildState": "Provisioned",
     "deploymentId": "46d81b2b-afe3-4fdc-9e70-02419450a9ec",
     "deploymentImage": "CentOS"
 }
