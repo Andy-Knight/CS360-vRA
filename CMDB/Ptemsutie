@@ -1,7 +1,0 @@
-{
-    "Hostname": "Ptemsutie",
-    "IP": "192.168.110.221",
-    "buildState": "Provisioned",
-    "deploymentId": "d1dfcf52-06c8-47ca-b5c8-efc74aef0f5c",
-    "deploymentImage": "CentOS-CloudInit"
-}
